@@ -6,6 +6,6 @@ Resumen y realización de ejercicios de los capítulos 1-2 de Principios de circ
 
 ## Marco teórico (Resumen)
 ### Capítulo 1
-![Uploding imag.png...]![image](https://user-images.githubusercontent.com/116780907/201882021-319e1c0a-2364-48e4-8c10-825139e95d33.png)
+![image](https://user-images.githubusercontent.com/116780907/201882021-319e1c0a-2364-48e4-8c10-825139e95d33.png)
 
 
