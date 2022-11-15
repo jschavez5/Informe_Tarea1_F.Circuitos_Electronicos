@@ -21,7 +21,8 @@ Resumen y realización de ejercicios de los capítulos 1-2 de Principios de circ
 ## Explicación y Resolución de Ejercicios o Problemas 
 ## Capítulo 1
 ![image](https://user-images.githubusercontent.com/116780907/201893456-7eccdcab-d967-401d-a120-527a1fbfbda6.png)
-![image](https://user-images.githubusercontent.com/116780907/201894443-d9855e4b-9c4a-4b56-87b6-ef54fcaaf451.png)
+![image](https://user-images.githubusercontent.com/116780907/201973240-effaec7a-c6d1-4094-8996-e5f3129dda11.png)
+
 ![image](https://user-images.githubusercontent.com/116780907/201894912-c009a196-fc31-4f85-932a-82361d09dbd7.png)
 
 ![image](https://user-images.githubusercontent.com/116780907/201966898-65a39881-6750-4a76-8d9a-31768b3e4a77.png)
@@ -40,6 +41,7 @@ Resumen y realización de ejercicios de los capítulos 1-2 de Principios de circ
 ![image](https://user-images.githubusercontent.com/116780907/201897956-0d0729ed-e097-45ef-b0dc-26418fb3eba4.png)
 
 ## Video 
+https://youtu.be/A7CgOQoDfEU
 
 ## Conclusiones 
 
